@@ -29,40 +29,40 @@ int main()
 	switch (month)
 	{
 	case 1:
-		cout << "Зима" << endl;
+		cout << "Январь, Зима" << endl;
 		break;
 	case 2:
-		cout << "Зима" << endl;
+		cout << "Февраль, Зима" << endl;
 		break;
 	case 3:
-		cout << "Весна" << endl;
+		cout << "Март, Весна" << endl;
 		break;
 	case 4:
-		cout << "Весна" << endl;
+		cout << "Апрель, Весна" << endl;
 		break;
 	case 5:
-		cout << "Весна" << endl;
+		cout << "Май, Весна" << endl;
 		break;
 	case 6:
-		cout << "Лето" << endl;
+		cout << "Июнь, Лето" << endl;
 		break;
 	case 7:
-		cout << "Лето" << endl;
+		cout << "Июль, Лето" << endl;
 		break;
 	case 8:
-		cout << "Лето" << endl;
+		cout << "Август, Лето" << endl;
 		break;
 	case 9:
-		cout << "Осень" << endl;
+		cout << "Сентябрь, Осень" << endl;
 		break;
 	case 10:
-		cout << "Осень" << endl;
+		cout << "Октябрь, Осень" << endl;
 		break;
 	case 11:
-		cout << "Осень" << endl;
+		cout << "Ноябрь, Осень" << endl;
 		break;
 	case 12:
-		cout << "Зима" << endl;
+		cout << "Декабрь, Зима" << endl;
 		break;
 	default:
 		cout << month << " месяца не существует" << endl;
