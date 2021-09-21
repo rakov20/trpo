@@ -35,13 +35,13 @@ int main()
 		cout << "Зима" << endl;
 		break;
 	case 3:
-		cout << "Весна|" << endl;
+		cout << "Весна" << endl;
 		break;
 	case 4:
-		cout << "Весна|" << endl;
+		cout << "Весна" << endl;
 		break;
 	case 5:
-		cout << "Весна|" << endl;
+		cout << "Весна" << endl;
 		break;
 	case 6:
 		cout << "Лето" << endl;
